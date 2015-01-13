@@ -1,9 +1,9 @@
 class Test
 	def printing 
 		
-		c=10
+		A=10
 		b=20
-		s=c+b
+		s=A+b
 		puts s
 	end
 end
